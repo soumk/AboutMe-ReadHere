@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UX/UI/Product Designer & Frontend developer
 -------------------------------------------
 
-Frontend developer with a passion for creating amazing user experiences. I specialize in JavaScript and React. I enjoy learning about responsive frontend designs to spec per the UX design. The same curiosity and love of learning that defined my work as a Quality analyst now fuel my creative work building impactful apps as an engineer. Here are the skills, qualities, and experience I bring to a team: Frontend: React | TypeScript | JavaScript | Sass | CSS3 | HTML5 Testing: Chai Other: Git | GitHub | Functional/OOP | Wireframing | Accessibility | Paper prototyping
+Frontend developer with a passion for creating amazing user experiences. I specialize in JavaScript and React. I enjoy learning about responsive frontend designs to spec per the UX design. The same curiosity and love of learning that defined my work as a Quality analyst now fuel my creative work building impactful apps as an engineer.
+
+Here are the skills, qualities, and experience I bring to a team: Frontend: React | TypeScript | JavaScript | Sass | CSS3 | HTML5 Testing: Chai Other: Git | GitHub | Functional/OOP | Wireframing | Accessibility | Paper prototyping
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [http://soumyak.co/](http://soumyak.co/)
