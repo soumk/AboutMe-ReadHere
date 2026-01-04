@@ -9,9 +9,9 @@ Frontend developer with a passion for creating amazing user experiences. I speci
 Here are the skills, qualities, and experience I bring to a team: Frontend: React | TypeScript | JavaScript | Sass | CSS3 | HTML5 Testing: Chai Other: Git | GitHub | Functional/OOP | Wireframing | Accessibility | Paper prototyping
 
 * 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [https://soumyak.co/](http://soumyak.co/)
-* ✉️  You can contact me at [soumyak7093@gmail.com](mailto:soumyak7093@gmail.com)
-* 🧠  I'm learning Gatsby
+* 🖥️  See my portfolio at [[https://soumyak.co/](https://soumyakumari.framer.website/)]
+* ✉️  You can contact me at [work.soumyak@gmail.com](mailto:soumyak7093@gmail.com)
+* 🧠  I'm learning 3D website designs
 
 ### Skills
 
